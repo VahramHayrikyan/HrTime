@@ -23,12 +23,14 @@
                 <h2 class="page-section__title">ABOUT US</h2>
                 <img class="page-section__title-style" src="assets/images/title-style.png" alt="">
                 <p class="page-section__paragraph">
-                    If you are at the HR universe we are glade to be with you.
+                    If you are at the HR universe we are glad to be with you.
                     Chronos CV filter website makes your daily work easier.
-                    Chronos was the personification of time in ancient Greeke philosophy.
-                    We are named Chronos to help you save your precious time giving you an opportunity to easily overcome in screening stage of CVs and let you  concentrate on your strategic and more creative tasks.
-                    <br>Our slogan It's time to HR
-                    <br>So let's HR together
+                    Chronos was the personification of time in ancient Greek philosophy.
+                    We are named Chronos to help you save your precious time allowing you to easily overcome in screening stage of CVs and let you concentrate on your strategic
+                    and more creative tasks.
+                    <br>
+                    Our motto is 'It's time to HR'. So let's HR together!
+                    
                 </p>
             </div>
         </div>
