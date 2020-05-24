@@ -118,6 +118,7 @@
             </div>
         </div>
         <div class="cv-list row" style="margin-right: 0!important; margin-left: 0!important; margin-bottom: 15px;">
+
             @foreach($result as $key => $row)
                 @if(array_key_exists('match', $row))
                     <div class="col-md-4" >
@@ -134,6 +135,10 @@
                                 @endforeach
                             </div>
                         </div>
+                    </div>
+                @else
+                    <div class="text-center">
+                        <h3>No matches found.</h3>
                     </div>
                 @endif
             @endforeach

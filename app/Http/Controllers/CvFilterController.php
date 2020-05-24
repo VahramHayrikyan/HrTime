@@ -41,6 +41,7 @@ class CvFilterController extends Controller
             $pdf    = $parser->parseFile($file);
             $text   = $pdf->getText();
             $text   = strtolower(str_replace(' ', '', $text));
+
             for($i = 0; $i < $total; $i++){
                 $word = trim(strtolower($keywords[$i]));
                 if($word){
